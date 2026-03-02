@@ -1,3 +1,3 @@
-<h1 align="center">Marko Acacio</h1>
+<h1 align="center">Sup! Marko Here!</h1>
 
-<p>Computer Science Majoring in Intelligent Systems</p>
+<p>I'm a developer with a wide range of skills.</p>

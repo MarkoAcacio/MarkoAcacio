@@ -1,1 +1,1 @@
-<h1>Marko Acacio</h1>
+<h1 align="center">Marko Acacio</h1>

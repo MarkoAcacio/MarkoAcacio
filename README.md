@@ -29,6 +29,12 @@ Hi! I'm a developer from the Philippines. I mainly work on web development and g
 </p>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarkoAcacio&theme=dark" alt="GitHub Streak">
+</p>
+
 
 ##
 <p align="center">

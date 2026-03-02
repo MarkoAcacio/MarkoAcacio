@@ -1,3 +1,3 @@
-<h1 align="center">Sup! Marko Here!</h1>
+<h1 align="center">Hey! I'm Marko </h1>
 
-<p>I'm a developer with a wide range of skills.</p>
+<p>A developer from the Philippines.</p>

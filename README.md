@@ -19,7 +19,7 @@ Hi! I'm a developer from the Philippines. I mainly work on web development and g
   <img src="https://img.shields.io/badge/Kubernetes-CED4DA?style=for-the-badge&logo=kubernetes&logoColor=3371E3">
   <img src="https://img.shields.io/badge/Docker-83CDE0?style=for-the-badge&logo=docker&logoColor=005896">
   <img src="https://img.shields.io/badge/Flask-F2F3F4?style=for-the-badge&logo=flask&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind-3371E3?style=for-the-badge&logo=#06B6D4&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-3371E3?style=for-the-badge&logo=tailwind&logoColor=white">
 </p>
 
 <p align="center">

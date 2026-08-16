@@ -20,6 +20,7 @@ Hi! I'm a developer from the Philippines. I mainly work on web development and g
   <img src="https://img.shields.io/badge/Docker-83CDE0?style=for-the-badge&logo=docker&logoColor=005896">
   <img src="https://img.shields.io/badge/Flask-F2F3F4?style=for-the-badge&logo=flask&logoColor=black">
   <img src="https://img.shields.io/badge/Tailwind-3371E3?style=for-the-badge&logo=tailwind&logoColor=white">
+  	![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
 </p>
 
 <p align="center">
